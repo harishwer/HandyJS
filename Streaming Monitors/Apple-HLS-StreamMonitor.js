@@ -1,4 +1,4 @@
-// Enter M3U8 Playlist URL
+// Enter Apple HLS M3U8 Playlist URL
 var myplaylisturl = "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8";
 
 // Enter Bandwidth Value in kbps (Applicable only if Bandwidth based stream selection available in M3U8 Playlist & Needs to be Higher than the Lowest Available Bit Rate)
@@ -7,7 +7,7 @@ var mykbps = 2048;
 // Number of Segments to be Downloaded
 var segnum = 5;
 
-// Randomize Segment Picking
+// Randomize Segments Picking
 var randseg = "true";
 
 ////////////////////////////
@@ -195,7 +195,7 @@ xhttp.send();
 
 
 
-/* CODE AUTHOR:
+/* CODE AUTHOR: Mr.X
 
 ██████╗ ██╗██╗   ██╗ █████╗ ██╗          ██████╗  ██████╗ ██████╗ ███████╗    ████████╗██╗    ██╗██╗███╗   ██╗
 ██╔══██╗██║██║   ██║██╔══██╗██║         ██╔════╝ ██╔═══██╗██╔══██╗██╔════╝    ╚══██╔══╝██║    ██║██║████╗  ██║
