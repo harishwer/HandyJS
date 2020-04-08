@@ -1,13 +1,13 @@
-// Enter Smooth Manifest URL
+// Enter Microsoft Smooth Manifest URL
 var myplaylisturl = "http://playready.directtaps.net/smoothstreaming/TTLSS720VC1/To_The_Limit_720.ism/Manifest";
 
-// Enter Bandwidth Value in kbps (Applicable only if Bandwidth based stream selection available in M3U8 Playlist & Needs to be Higher than the Lowest Available Bit Rate)
+// Enter Bandwidth Value in kbps (Applicable only if Bandwidth based stream selection available in Manifest & Needs to be Higher than the Lowest Available Bit Rate)
 var mykbps = 2048;
 
 // Number of Segments/Fragments to be Downloaded
 var segnum = 3;
 
-// Randomize Segment Picking
+// Randomize Segments/Fragments Picking
 var randseg = "true";
 
 ////////////////////////////
