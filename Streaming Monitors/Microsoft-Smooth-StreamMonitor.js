@@ -1,4 +1,4 @@
-// Enter M3U8 Playlist URL
+// Enter Smooth Manifest URL
 var myplaylisturl = "http://playready.directtaps.net/smoothstreaming/TTLSS720VC1/To_The_Limit_720.ism/Manifest";
 
 // Enter Bandwidth Value in kbps (Applicable only if Bandwidth based stream selection available in M3U8 Playlist & Needs to be Higher than the Lowest Available Bit Rate)
@@ -183,7 +183,7 @@ xhttp.send();
 
 
 
-/* CODE AUTHOR:
+/* CODE AUTHOR: Mr.X
 
 ██████╗ ██╗██╗   ██╗ █████╗ ██╗          ██████╗  ██████╗ ██████╗ ███████╗    ████████╗██╗    ██╗██╗███╗   ██╗
 ██╔══██╗██║██║   ██║██╔══██╗██║         ██╔════╝ ██╔═══██╗██╔══██╗██╔════╝    ╚══██╔══╝██║    ██║██║████╗  ██║
