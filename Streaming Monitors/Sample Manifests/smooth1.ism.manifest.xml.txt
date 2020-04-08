@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Created with Expression Encoder version 4.0.3158.0-->
+<SmoothStreamingMedia MajorVersion="2" MinorVersion="1" Duration="1303410000">
+   <StreamIndex Type="video" Name="video" Chunks="65" QualityLevels="8" MaxWidth="1280" MaxHeight="720" DisplayWidth="1280" DisplayHeight="720" Url="QualityLevels({bitrate})/Fragments(video={start time})">
+      <QualityLevel Index="0" Bitrate="2962000" FourCC="WVC1" MaxWidth="1280" MaxHeight="720" CodecPrivateData="250000010FD37E27F1678A27F859F180490825A645A6440000010E5A67F840" />
+      <QualityLevel Index="1" Bitrate="2056000" FourCC="WVC1" MaxWidth="992" MaxHeight="560" CodecPrivateData="250000010FD37E1EF1178A1EF845FF8A8B8049081BEBE7D7CC0000010E5A67F840" />
+      <QualityLevel Index="2" Bitrate="1427000" FourCC="WVC1" MaxWidth="768" MaxHeight="432" CodecPrivateData="250000010FCB6C17F0D78A17F835F18049081AB8BD71840000010E5A67F840" />
+      <QualityLevel Index="3" Bitrate="991000" FourCC="WVC1" MaxWidth="592" MaxHeight="332" CodecPrivateData="250000010FCB5E1270A58A1278297FA5A580490811E3DF8F840000010E5A67F840" />
+      <QualityLevel Index="4" Bitrate="688000" FourCC="WVC1" MaxWidth="448" MaxHeight="252" CodecPrivateData="250000010FCB540DF07D8A0DF81F71804908114FED3FBC0000010E5A67F840" />
+      <QualityLevel Index="5" Bitrate="477000" FourCC="WVC1" MaxWidth="368" MaxHeight="208" CodecPrivateData="250000010FC34E0B70678A0B7819FFCECF80490808E8E747440000010E5A67F840" />
+      <QualityLevel Index="6" Bitrate="331000" FourCC="WVC1" MaxWidth="284" MaxHeight="160" CodecPrivateData="250000010FC34A08D04F8A08D813FF9E9F80490808A1950CF40000010E5A67F840" />
+      <QualityLevel Index="7" Bitrate="230000" FourCC="WVC1" MaxWidth="224" MaxHeight="128" CodecPrivateData="250000010FC34606F03F8A06F80FFF3E3F80490800704704DC0000010E5A67F840" />
+      <c d="20010000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20020000" />
+      <c d="20010000" />
+      <c d="20020000" />
+      <c d="20860001" />
+   </StreamIndex>
+   <StreamIndex Type="audio" Index="0" Name="audio" Chunks="65" QualityLevels="1" Url="QualityLevels({bitrate})/Fragments(audio={start time})">
+      <QualityLevel FourCC="WMAP" Bitrate="128000" SamplingRate="44100" Channels="2" BitsPerSample="16" PacketSize="5945" AudioTag="354" CodecPrivateData="1000030000000000000000000000E0000000" />
+      <c d="20897959" />
+      <c d="20433560" />
+      <c d="20433560" />
+      <c d="21362358" />
+      <c d="20897959" />
+      <c d="16137869" />
+      <c d="20085261" />
+      <c d="20433560" />
+      <c d="20723809" />
+      <c d="23742404" />
+      <c d="19403174" />
+      <c d="18329252" />
+      <c d="18111565" />
+      <c d="21623583" />
+      <c d="20636734" />
+      <c d="17182767" />
+      <c d="20897959" />
+      <c d="19969161" />
+      <c d="21826757" />
+      <c d="19969161" />
+      <c d="19969161" />
+      <c d="20897959" />
+      <c d="23219955" />
+      <c d="13931973" />
+      <c d="19969161" />
+      <c d="22291156" />
+      <c d="17647166" />
+      <c d="20433560" />
+      <c d="21826757" />
+      <c d="18575964" />
+      <c d="21826757" />
+      <c d="17647166" />
+      <c d="20433560" />
+      <c d="21362358" />
+      <c d="17647166" />
+      <c d="19969161" />
+      <c d="23219954" />
+      <c d="19040363" />
+      <c d="18575964" />
+      <c d="20433560" />
+      <c d="20897959" />
+      <c d="19504762" />
+      <c d="21246259" />
+      <c d="17298866" />
+      <c d="22581406" />
+      <c d="19098413" />
+      <c d="21478458" />
+      <c d="19330612" />
+      <c d="17647165" />
+      <c d="22000907" />
+      <c d="19040363" />
+      <c d="20433560" />
+      <c d="19040363" />
+      <c d="22755556" />
+      <c d="18111564" />
+      <c d="20433560" />
+      <c d="19969161" />
+      <c d="20317461" />
+      <c d="19156462" />
+      <c d="19969161" />
+      <c d="19969161" />
+      <c d="21362358" />
+      <c d="19969161" />
+      <c d="21826758" />
+      <c d="18417687" />
+   </StreamIndex>
+</SmoothStreamingMedia>
