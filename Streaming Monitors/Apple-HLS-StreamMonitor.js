@@ -145,12 +145,20 @@ xhttp.onreadystatechange = function()
                 var mybitr = 1000 * mykbps,
                     lasthighbitr = 0;
 
-                for (i = 0; i < availbitr.length; i++)
+                if (availbitr.length == 1)
                 {
-                    if ((availbitr[i] < mybitr) && (availbitr[i] > lasthighbitr))
+                    lasthighbitr = availbitr[0];
+                }
+                else if (availbitr.length > 1)
+                {
+                    for (i = 0; i < availbitr.length; i++)
                     {
-                        lasthighbitr = availbitr[i];
+                        if ((availbitr[i] < mybitr) && (availbitr[i] > lasthighbitr))
+                        {
+                            lasthighbitr = availbitr[i];
+                        }
                     }
+
                 }
 
                 var selectbitr = lasthighbitr;
