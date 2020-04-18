@@ -110,11 +110,18 @@ xhttp.onreadystatechange = function()
         var myvidbitr = 1000 * mykbps,
             lasthighbitr = 0;
 
-        for (i = 0; i < vidQLBitRates.length; i++)
+        if (vidQLBitRates.length == 1)
         {
-            if ((vidQLBitRates[i] < myvidbitr) && (vidQLBitRates[i] > lasthighbitr))
+            lasthighbitr = vidQLBitRates[0];
+        }
+        else if (vidQLBitRates.length > 1)
+        {
+            for (i = 0; i < vidQLBitRates.length; i++)
             {
-                lasthighbitr = vidQLBitRates[i];
+                if ((vidQLBitRates[i] < myvidbitr) && (vidQLBitRates[i] > lasthighbitr))
+                {
+                    lasthighbitr = vidQLBitRates[i];
+                }
             }
         }
         var selectVidbitr = lasthighbitr;
